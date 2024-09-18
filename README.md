@@ -2,7 +2,7 @@
 
 Built with the Next.js 14 App Router, Postgres, TypeScript, Tailwind & Kinde Auth
 
-![Project Image](https://github.com/boriyevv/mobilecase/tree/main/public)
+![Project Image](https://github.com/boriyevv/mobilecase/blob/main/public/snake-1.png)
 
 ## Features
 
